@@ -26,7 +26,7 @@ Hi, I'm [Nitigya Kapoor](), a third year student at Manipal Institute of Technol
 - 📝[Resume](https://drive.google.com/file/d/1kgOfnZl96uoth282eJgOdXpPEcjQ3jWN/view?usp=sharing)
 
 <details>
-<summary>📈 My Top Languages</summary>
+<summary>My Top Languages</summary>
 
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnitigya&layout=compact" alt="itsnitigya" />
