@@ -20,7 +20,7 @@ Hi, I'm [Nitigya Kapoor](), a third year student at Manipal Institute of Technol
 
   
 - 🚀 I'm looking into collaboration in Open Source;
-- 🌱 I’m currently learning Rust and Golang; 
+- 🌱 I’m currently learning Golang; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Nitigya Kapoor](mailto:kapoornitigya@gmail.com);
 - 📝[Resume](https://drive.google.com/file/d/1kgOfnZl96uoth282eJgOdXpPEcjQ3jWN/view?usp=sharing)
