@@ -16,8 +16,6 @@
 
 Hi, I'm [Nitigya Kapoor](), a third year student at Manipal Institute of Technology. Interested in Backend and Mobile App development. I'm currently a Development head at [MTTN](https://github.com/manipalthetalk). I love building stuff and taking new challenges. Beside's programming, I enjoy playing chess and gaming.
 
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/itsnitigya/dev_resources/master/code.gif" width="500" height="320" />
   
 - 🚀 I'm looking into collaboration in Open Source;
 - 🌱 I’m currently learning Rust and Golang; 
