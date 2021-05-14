@@ -23,7 +23,7 @@ Hi, I'm [Nitigya Kapoor](), a third year student at Manipal Institute of Technol
 - 🌱 I’m currently learning Golang; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Nitigya Kapoor](mailto:kapoornitigya@gmail.com);
-- 📝[Resume](https://drive.google.com/file/d/1kgOfnZl96uoth282eJgOdXpPEcjQ3jWN/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1owFgoMLdQyS2trDOM8ietNo8-g90zIu-/view?usp=sharing)
 
 
 
