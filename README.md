@@ -19,7 +19,6 @@ Hi, I'm [Nitigya Kapoor](), a third year student at Manipal Institute of Technol
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnitigya&layout=compac" width="300" height="250" />
 
   
-- 🚀 I'm looking into collaboration in Open Source;
 - 🌱 I’m currently learning Golang; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Nitigya Kapoor](mailto:kapoornitigya@gmail.com);
