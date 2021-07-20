@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/nitigyakapoor/">
   <img align="left" alt="Nitigya's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -14,7 +14,7 @@
 <br />
 
 
-Hi, I'm [Nitigya Kapoor](), a fourth year student at Manipal Institute of Technology. I'm currently a Software Engineer @ [Grofers](https://grofers.com/aboutus). Interested in Backend and Mobile App development. I love building stuff and taking new challenges. Beside's programming, I enjoy playing chess and gaming.
+I'm [Nitigya Kapoor](), a fourth year student at Manipal Institute of Technology. I'm currently a Software Engineer @ [Grofers](https://grofers.com/aboutus). Interested in Backend and Mobile App development. I love building stuff and taking new challenges. Beside's programming, I enjoy playing chess and gaming.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnitigya&layout=compac" width="300" height="250" />
 
