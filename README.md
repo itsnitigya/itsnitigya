@@ -19,7 +19,7 @@ I'm [Nitigya Kapoor](), a final year student at Manipal Institute of Technology.
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnitigya&layout=compac" width="300" height="250" />
 
   
-- 🌱 I’m currently learning Golang; 
+- 🌱 I’m currently learning AWS and Azure; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Nitigya Kapoor](mailto:kapoornitigya@gmail.com);
-- 📝[Resume](https://drive.google.com/file/d/1owFgoMLdQyS2trDOM8ietNo8-g90zIu-/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1owFgoMLdQyS2trDOM8ietNo8-g90zIu-/view?usp=sharing);
