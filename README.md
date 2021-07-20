@@ -14,7 +14,7 @@
 <br />
 
 
-Hi, I'm [Nitigya Kapoor](), a fourth year student at Manipal Institute of Technology. I'm currently a Software Development Engineer @ Grofers. Interested in Backend and Mobile App development. I love building stuff and taking new challenges. Beside's programming, I enjoy playing chess and gaming.
+Hi, I'm [Nitigya Kapoor](), a fourth year student at Manipal Institute of Technology. I'm currently a Software Development Engineer @ [Grofers](https://grofers.com/aboutus). Interested in Backend and Mobile App development. I love building stuff and taking new challenges. Beside's programming, I enjoy playing chess and gaming.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnitigya&layout=compac" width="300" height="250" />
 
