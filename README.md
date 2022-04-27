@@ -14,7 +14,7 @@
 <br />
 
 
-I'm [Nitigya Kapoor](), a final year student at Manipal Institute of Technology. I'm currently a Software Engineer @ [Grofers](https://lambda.grofers.com). Interested in Backend and Mobile App development. I love building stuff and taking new challenges. Beside's programming, I enjoy playing chess and gaming.
+I'm [Nitigya Kapoor](), a final year student at Manipal Institute of Technology. I'm currently a Software Engineer @ [Grofers](https://lambda.grofers.com). Interested in Backend and Mobile App development. I love building stuff and taking new challenges. Beside's programming, you can find me gaming or in the gym.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnitigya&layout=compac" width="300" height="250" />
 
