@@ -22,4 +22,3 @@ I'm [Nitigya Kapoor](), a final year student at Manipal Institute of Technology.
 - 🌱 I’m currently learning AWS and Azure; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Nitigya Kapoor](mailto:kapoornitigya@gmail.com);
-- 📝[Resume](https://drive.google.com/file/d/1owFgoMLdQyS2trDOM8ietNo8-g90zIu-/view?usp=sharing);
