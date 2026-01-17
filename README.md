@@ -14,11 +14,7 @@
 <br />
 
 
-I'm [Nitigya Kapoor](), a final year student at Manipal Institute of Technology. I'm currently a Software Engineer @ [Grofers](https://lambda.grofers.com). Interested in Backend and Mobile App development. I love building stuff and taking new challenges. Beside's programming, you can find me gaming or in the gym.
+I'm [Nitigya Kapoor](), I lead the iOS team @ Blinkit. 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnitigya&layout=compac" width="300" height="250" />
-
-  
-- 🌱 I’m currently learning AWS and Azure; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Nitigya Kapoor](mailto:kapoornitigya@gmail.com);
